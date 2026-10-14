@@ -1,0 +1,13 @@
+question,method,top_pdf_page,score_or_distance,assessment,notes
+"What is agroecology?",TF-IDF,3,0.38,Relevant,"Direct definition retrieved"
+"What is agroecology?",Semantic,3,0.2560,Relevant,"Direct definition retrieved"
+"How does agroecology combine traditional and industrial agriculture?",TF-IDF,1,0.2389,Partial,"Top result mainly a title"
+"How does agroecology combine traditional and industrial agriculture?",Semantic,3,0.2805,Partial,"General definition; incomplete answer"
+"What are the benefits of crop diversification?",TF-IDF,33,0.2335,Partial,"Related biodiversity and landscape practices"
+"What are the benefits of crop diversification?",Semantic,15,0.3271,Partial,"Related biodiversity and synergies principles"
+"How can farmers improve soil fertility?",TF-IDF,32,0.1499,Relevant,"Cover crops and soil management"
+"How can farmers improve soil fertility?",Semantic,19,0.3380,Relevant,"Compost, manure, crop rotations and green manuring"
+"What challenges can farmers face when adopting agroecological practices?",TF-IDF,4,,Weak,"Top result was a table-of-contents entry"
+"What challenges can farmers face when adopting agroecological practices?",Semantic,6,,Weak,"General information; not a direct answer"
+"What is the current price of wheat in Ethiopia today?",TF-IDF,9,0.1212,Unsupported,"Did not retrieve a current price"
+"What is the current price of wheat in Ethiopia today?",Semantic,7,0.4914,Unsupported,"General agricultural context, not a current price"

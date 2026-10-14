@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+
+# Rebuildable vector database
+results/chroma_db/
+
+# Source PDF: keep local unless redistribution is permitted
+data/*.pdf
+
+# Generated extraction outputs
+results/chunks.json
+results/chunks.txt
+
+# Local vector database
+results/chroma_db/
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local source PDF
+data/*.pdf
