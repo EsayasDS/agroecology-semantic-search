@@ -1,5 +1,8 @@
 ﻿.venv/
+venv/
 __pycache__/
 *.pyc
 .env
+*.env
 data/processed/chroma/
+.DS_Store
